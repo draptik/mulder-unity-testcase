@@ -13,4 +13,5 @@ Versions:
 - VS 2010
 - R# 7.1.3
 - Agent Mulder 1.0.5.0
+- Unity 2.1.505
 - Project Type: .NET 4.0, ASP.NET
